@@ -1,7 +1,7 @@
-id=template
-name=Template Module
+id=IncreaseHeadphoneVolume
+name=Increase Headset Volume
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=Gbola
+description=This module boosts the headset volume up to 94. Tested on the Nexus 6P running 7.1.2 (original value is 84).
 template=4
